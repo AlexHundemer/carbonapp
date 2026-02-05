@@ -1,0 +1,56 @@
+# Tech Stack
+
+This document **locks the technology choices** for the project.
+
+AI agents must not deviate from this stack.
+
+---
+
+## Frontend
+
+- React
+- Vite
+- JavaScript (no TypeScript unless approved)
+
+---
+
+## Backend / Data
+
+- Firebase
+- Firestore (NoSQL)
+
+---
+
+## Hosting (Future)
+
+- Firebase Hosting or equivalent
+- No custom servers
+
+---
+
+## Tooling
+
+- Node.js (LTS)
+- npm
+- Anti-gravity IDE
+- Stitch agent loop
+
+---
+
+## Prohibited Tools
+
+- Next.js
+- Redux
+- GraphQL
+- Docker
+- Kubernetes
+- Experimental frameworks
+
+---
+
+## Stack Changes
+
+Stack changes require:
+- Clear justification
+- Updated documentation
+- Explicit approval

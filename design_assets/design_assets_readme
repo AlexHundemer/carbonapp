@@ -1,0 +1,21 @@
+# Design Assets
+
+This folder contains **visual reference material** only.
+
+No code belongs here.
+
+---
+
+## Structure
+
+- logos/ — brand marks and icons
+- screenshots/ — UI references
+- inspiration/ — external examples
+
+---
+
+## Rules
+
+- Assets guide decisions
+- Assets do not dictate implementation
+- When in doubt, keep it simple
